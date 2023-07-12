@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/Users/ibai/venv/tfm/tfm_venv/bin/python",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+}

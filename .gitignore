@@ -1,0 +1,8 @@
+/datos
+/flow*.csv
+/checkpoint*
+/incidences*.csv
+/metersid/
+/flow_*/
+/Imagenes finales/
+final_data_to_train.csv
